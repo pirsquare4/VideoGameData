@@ -2,6 +2,8 @@
 Download the data [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
 
 ## Intro
+Hi, My name is Giordano Bonora Groome and this is my data vizualization of the video game industry. I really love video games so I thought it might be interesting to make a few graphs to better understand the market, and people's tastes.
+
 The data I downloaded was a CSV of video game sales from 1988 all the way until 2019 and a bit of 2020. However, some of the 2019 and 2020 data is incomplete as those figures have not finished being published yet. The data includes total sales, where the sales were made, ratings of games, genres of games, and their titles respectively.
 
 I love python, therefore I did most of my work through pandas and jupyter notebook, then exported my data, and made charts with the seaborn package in python, or in google sheets.
@@ -34,3 +36,15 @@ For this section, I added all the games back to the tally that didn't have any c
 ![JP GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/15972097057689053.png)
 ![OTHER GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210013c52ff36.png)
 ![GLOBAL GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210218230cd32.png)
+
+The code to make the excel sheets looked something like this:
+
+`top_10_japan = videogame_data_filtered.sort_values('JP_Sales', ascending = False).head(10)`
+
+`top_10_japan.to_csv("top_10_japan.csv")`
+
+`top_10_japan`
+
+## Third Chart: What games dominate the market by genre?
+Lastly, I wanted to see what game genre dominated the market.
+![GENRE PIE CHART](https://media.journalism.berkeley.edu/upload/2020/08/1597211023af8553b.png)
