@@ -1,4 +1,4 @@
-# Video Game Data
+# Video Games Sales analysis from 1988 to 2019
 Download CSVs for this project [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
 
 ## Intro
