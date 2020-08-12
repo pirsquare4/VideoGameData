@@ -8,9 +8,13 @@ I love python, therefore I did most of my work through pandas and jupyter notebo
 
 ## Data Cleaning
 
-`code`
 First off, some of the data is incomplete and have NaaN values. I began by removing any game that did not have a video game review a rating, and use this table for any charts that required the critic rating value
+`videogame_data_filtered = videogame_data[videogame_data['Critic_Score'].notnull()]
+videogame_data_filtered = videogame_data_filtered.fillna(0)`
 Secondly, I then added a "summed" column. The way this table works is it breaks down each major video game buying region (Japan, EU, NA) and then puts the rest of sales under "other". It then sums those 4 columns into the "Global Sales" column. However, sometimes the numbers for each region aren't explicitly available, so there is another column called "Total Shipped" which just provides the global number instead of breaking it down by region. I therefore made a column called "summed" which took the "Global Sales" if it was not null, and if it was null, then it would take the "Total Shipped" column, and use that instead. This made sure that even if we didn't have a breakdown of sales per region, we would still have a number of sales regardless.
+
+`videogame_data_filtered['summed'] = videogame_data_filtered.Total_Shipped+videogame_data_filtered.Global_Sales`
+This line of code works because either Total_Shipped is 0 or Global_Sales is 0. They will never both contain a number above 0. 
 
 ## First Chart
 
