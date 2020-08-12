@@ -30,7 +30,7 @@ However its a bit hard to see as there are some outliers which make our x and y 
 ## Second Chart : What are the top games sold per region? Are there any trends?
 For this section, I added all the games back to the tally that didn't have any critic scores, as critic scores don't matter. I then filtered out the data and made 5 different excel sheets: 1 for the top ten games in NA, top ten in EU, top ten in JP, top ten in Other Countries, and top ten globally. This was our result:
 ![NA GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597209013d599560.png)
-![EU GRAPH]https://media.journalism.berkeley.edu/upload/2020/08/15972095311a7be88.png)
+![EU GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/15972095311a7be88.png)
 ![JP GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/15972097057689053.png)
 ![OTHER GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210013c52ff36.png)
 ![GLOBAL GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210218230cd32.png)
