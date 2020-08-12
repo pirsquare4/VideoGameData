@@ -1,5 +1,5 @@
 # Video Game Data
-Download the intial CVs for this project [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
+Download CSVs for this project [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
 
 ## Intro
 Hi, my name is Giordano Bonora Groome and this is my data vizualization of the video game industry. I really love video games so I thought it might be interesting to make a few graphs to better understand the market, and people's tastes.
