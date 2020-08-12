@@ -21,4 +21,8 @@ This line of code works because either Total_Shipped is 0 or Global_Sales is 0. 
 
 ## First Chart
 
-My first inquiry was seeing if the 
+My first inquiry was seeing if there was a correlation between critic ratings and number of sales. This was my first bit of code. On the X-axis we have the critic rating out of 10, and the Y-axis is sales in millions of copies
+![Code Image](https://media.journalism.berkeley.edu/upload/2020/08/1597208197a40ad02.png)
+
+However its a bit hard to see as there are some outliers which make our x and y axis very big. Therefore I remove any video game with sales above 30 million, to make the graph smaller and easier to read (This removes about 10 data points out of about 37 000). I also added a best fit line, to see if there was any correlation between the rating and the number of sales. It seems that there is a bit of correlation, but I expected it to fit much much better than it ended up.
+![Code Image](https://media.journalism.berkeley.edu/upload/2020/08/1597208327e0c0c64.png)
