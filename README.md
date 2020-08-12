@@ -19,10 +19,18 @@ Secondly, I then added a "summed" column. The way this table works is it breaks 
 
 This line of code works because either Total_Shipped is 0 or Global_Sales is 0. They will never both contain a number above 0. 
 
-## First Chart
+## First Chart : Correlation between critic score and number of copies sold?
 
 My first inquiry was seeing if there was a correlation between critic ratings and number of sales. This was my first bit of code. On the X-axis we have the critic rating out of 10, and the Y-axis is sales in millions of copies
 ![Code Image](https://media.journalism.berkeley.edu/upload/2020/08/1597208197a40ad02.png)
 
 However its a bit hard to see as there are some outliers which make our x and y axis very big. Therefore I remove any video game with sales above 30 million, to make the graph smaller and easier to read (This removes about 10 data points out of about 37 000). I also added a best fit line, to see if there was any correlation between the rating and the number of sales. It seems that there is a bit of correlation, but I expected it to fit much much better than it ended up.
 ![Code Image](https://media.journalism.berkeley.edu/upload/2020/08/1597208327e0c0c64.png)
+
+## Second Chart : What are the top games sold per region? Are there any trends?
+For this section, I added all the games back to the tally that didn't have any critic scores, as critic scores don't matter. I then filtered out the data and made 5 different excel sheets: 1 for the top ten games in NA, top ten in EU, top ten in JP, top ten in Other Countries, and top ten globally. This was our result:
+![NA GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597209013d599560.png)
+![EU GRAPH]https://media.journalism.berkeley.edu/upload/2020/08/15972095311a7be88.png)
+![JP GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/15972097057689053.png)
+![OTHER GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210013c52ff36.png)
+![GLOBAL GRAPH](https://media.journalism.berkeley.edu/upload/2020/08/1597210218230cd32.png)
