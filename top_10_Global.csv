@@ -1,0 +1,11 @@
+,Rank,Name,Genre,ESRB_Rating,Platform,Publisher,Developer,Critic_Score,User_Score,Total_Shipped,Global_Sales,NA_Sales,PAL_Sales,JP_Sales,Other_Sales,Year,summed
+0,1,Wii Sports,Sports,E,Wii,Nintendo,Nintendo EAD,7.7,0.0,82.86,0.0,0.0,0.0,0.0,0.0,2006.0,82.86
+1,2,Super Mario Bros.,Platform,0,NES,Nintendo,Nintendo EAD,10.0,0.0,40.24,0.0,0.0,0.0,0.0,0.0,1985.0,40.24
+2,3,Mario Kart Wii,Racing,E,Wii,Nintendo,Nintendo EAD,8.2,9.1,37.14,0.0,0.0,0.0,0.0,0.0,2008.0,37.14
+3,4,PlayerUnknown's Battlegrounds,Shooter,0,PC,PUBG Corporation,PUBG Corporation,0.0,0.0,36.6,0.0,0.0,0.0,0.0,0.0,2017.0,36.6
+4,5,Wii Sports Resort,Sports,E,Wii,Nintendo,Nintendo EAD,8.0,8.8,33.09,0.0,0.0,0.0,0.0,0.0,2009.0,33.09
+5,6,Pokemon Red / Green / Blue Version,Role-Playing,E,GB,Nintendo,Game Freak,9.4,0.0,31.38,0.0,0.0,0.0,0.0,0.0,1998.0,31.38
+6,7,New Super Mario Bros.,Platform,E,DS,Nintendo,Nintendo EAD,9.1,8.1,30.8,0.0,0.0,0.0,0.0,0.0,2006.0,30.8
+7,8,Tetris,Puzzle,E,GB,Nintendo,Bullet Proof Software,0.0,0.0,30.26,0.0,0.0,0.0,0.0,0.0,1989.0,30.26
+8,9,New Super Mario Bros. Wii,Platform,E,Wii,Nintendo,Nintendo EAD,8.6,9.2,30.22,0.0,0.0,0.0,0.0,0.0,2009.0,30.22
+9,10,Minecraft,Misc,0,PC,Mojang,Mojang AB,10.0,0.0,30.01,0.0,0.0,0.0,0.0,0.0,2010.0,30.01
