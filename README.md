@@ -45,6 +45,21 @@ The code to make the excel sheets looked something like this:
 
 `top_10_japan`
 
+We can see that North America has almost exclusively shooting games as their top video games. Meanwhile Europe also has a lot of shooting games, but there are also a lot of FIFA and soccer games in the top games as well. Japan is way different from both, as they like more anime/cartoon style games, both of which are absent from the top 10 in NA and EU.
+
 ## Third Chart: What games dominate the market by genre?
 Lastly, I wanted to see what game genre dominated the market. The chart below groups all the video games by genre, and then uses the total amount of copies sold as the value.
-![GENRE PIE CHART](https://media.journalism.berkeley.edu/upload/2020/08/1597211023af8553b.png)
+
+![GENRE PIE CHART](https://media.journalism.berkeley.edu/upload/2020/08/1597212362f30784e.png)
+
+I thought it would also be interesting to see how video game sales have been going overtime: 
+
+![YEARLY CHART](https://media.journalism.berkeley.edu/upload/2020/08/15972120754a80299.png)
+
+We can see that shooters and action video games dominate the game market, while simulation and strategy hold up the tail end. An interesting observation is that video game sales in recent years have gone down. I think there are two reasons for this: Games released in 2017 or 2018 are still relatively new, and people are still buying them, therefore the total number is not yet "complete" since people are still buying the video games. Secondly, lots of games have become free to play, with in game purchases. Top video games, like League of Legends and Fortnite both employ this marketing strategy. The game is free to play, but add in game purchases to make your character more asthetically pleasing/more personalized. So this makes it hard for games like these to be tracked, as there are no copies "sold". People aren't playing less video games. People just buy less video games. The rest of the world has a similar taste to North America, with a FIFA game thrown in there. What's interesting, is that globally, PG games, like Mario or Wii Sports are the top games. It seems that while regions have their personal favorite types of games, accross regions as a whole, non-violent, more child oriented games seem to be the most bought and played.
+
+## Conclusion
+
+While critic scores do play a role in game sales, they are not the end all be all of a game. Also, it seems each region has their own game trend, and while action and sports games seem to dominate the market, fun casual games like Mario and Wii Sports are still vastly popular. I did most of my work with pandas in Python 3.8. I attatched my code in the files of this Github if you wanted to take a look at my other expirementations.
+
+# THANK YOU!
