@@ -46,5 +46,5 @@ The code to make the excel sheets looked something like this:
 `top_10_japan`
 
 ## Third Chart: What games dominate the market by genre?
-Lastly, I wanted to see what game genre dominated the market.
+Lastly, I wanted to see what game genre dominated the market. The chart below groups all the video games by genre, and then uses the total amount of copies sold as the value.
 ![GENRE PIE CHART](https://media.journalism.berkeley.edu/upload/2020/08/1597211023af8553b.png)
