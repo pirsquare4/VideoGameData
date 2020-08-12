@@ -2,7 +2,7 @@
 Download CSVs for this project [here](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
 
 ## Intro
-Hi, my name is Giordano Bonora Groome and this is my data vizualization of the video game industry. I really love video games so I thought it might be interesting to make a few graphs to better understand the market, and people's tastes.
+Hi, my name is Giordano Bonora Groome and this is my data visualization of the video game industry. I really love video games so I thought it might be interesting to make a few graphs to better understand the market, and people's tastes.
 
 The data I downloaded was a CSV of video game sales from 1988 all the way until 2019 and a bit of 2020. However, some of the 2019 and 2020 data is incomplete as those figures have not finished being published yet. The data includes total sales, where the sales were made, ratings of games, genres of games, and their titles respectively.
 
